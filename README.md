@@ -4,7 +4,7 @@ Navod pre pocitanie prikladov s pracovnym nazvom "sude-liche".
 
 **Opisovana metoda ma uspesnost**: ?%
 
-**Vypracoval**: Jakub Jakubec (Kobu#5271)
+**Vypracoval**: Jakub Jakubec (kobu19)
 
 ---
 
