@@ -12,7 +12,7 @@ Navod pre pocitanie prikladov s pracovnym nazvom "sude-liche".
 
 Metoda popisuje postupy spominane v [https://is.muni.cz/auth/discussion/predmetove/fi/podzim2019/IB000-14/pomoc_pri_cvicnom_odpovedniku/-/94493426/](https://is.muni.cz/auth/discussion/predmetove/fi/podzim2019/IB000-14/pomoc_pri_cvicnom_odpovedniku/-/94493426/). Takze ak uvidite niekedy pana Darmovzala (viz foto), ktory tuto myslienku prvykrat sformuloval, tak mu podakujte.
 
-![p. Darmovzal kratko po tom ako zapricinil 100% uspesnost tohto prikladu](assets/flat750x075f-pad750x1000f8f8f8.jpg)
+![p. Darmovzal kratko po tom ako zapricinil 100% uspesnost tohto prikladu](assets/chad.jpg)
 
 p. Darmovzal kratko po tom ako zapricinil 100% uspesnost tohto prikladu
 
