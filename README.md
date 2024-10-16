@@ -22,7 +22,12 @@ Tvorime pravdivostnu tabulku na zaklade uvah, ci nejaky prvok X patri alebo nepa
 
 Na prevod rovnice mnozinoveho kalkulu do vyrokovej formuli pouzijeme nasledujuce vzorce, ktore vyplyvaju jak logicky tak z definic danych operandov.
 
-[ ](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5%2032bedcaa56d84b1b93a5fa82620c8c61.csv)
+| Množinový Operand | Formula         |
+|-------------------|-----------------|
+| A ∩ B             | A ∧ B           |
+| A ∪ B             | A ∨ B           |
+| A Δ B             | ¬(A <=> B)      |
+| A / B             | (A ∧ ¬B)        |
 
 Teraz sa mozme pustit na prvy priklad
 
