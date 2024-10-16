@@ -12,7 +12,7 @@ Navod pre pocitanie prikladov s pracovnym nazvom "sude-liche".
 
 Metoda popisuje postupy spominane v [https://is.muni.cz/auth/discussion/predmetove/fi/podzim2019/IB000-14/pomoc_pri_cvicnom_odpovedniku/-/94493426/](https://is.muni.cz/auth/discussion/predmetove/fi/podzim2019/IB000-14/pomoc_pri_cvicnom_odpovedniku/-/94493426/). Takze ak uvidite niekedy pana Darmovzala (viz foto), ktory tuto myslienku prvykrat sformuloval, tak mu podakujte.
 
-![p. Darmovzal kratko po tom ako zapricinil 100% uspesnost tohto prikladu](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/flat750x075f-pad750x1000f8f8f8.jpg)
+![p. Darmovzal kratko po tom ako zapricinil 100% uspesnost tohto prikladu](assets/flat750x075f-pad750x1000f8f8f8.jpg)
 
 p. Darmovzal kratko po tom ako zapricinil 100% uspesnost tohto prikladu
 
@@ -33,15 +33,15 @@ Teraz sa mozme pustit na prvy priklad
 
 ### Priklad 1
 
-![pr1.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/pr1.png)
+![pr1.png](assets/pr1.png)
 
 Najprv sa za pouzitia asociativity zbavime clenov, ktore prechadzaju cez vsetky i (v tomto pripade len symetricke rozdiely) a vznikne nam takato rovnost:
 
-![new.jpg](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/new.jpg)
+![new.jpg](assets/new.jpg)
 
 Pre citatelnost si vzdy zavediem premenne, ktore budu reprezentovat mnozinu z rovnice.
 
-![pr2.jpg](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/pr2.jpg)
+![pr2.jpg](assets/pr2.jpg)
 
 Takze dostavame rovnost:
 
@@ -63,7 +63,7 @@ $(A ∧¬B) ∨ ¬( C \iff B) = (A ∧¬ C) ∨ ¬( C \iff B)$
 
 Vsetko mame upravene. Uz len staci **manualne** vyhotovit pravdivostnu tabulku:
 
-![tabulka.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/tabulka.png)
+![tabulka.png](assets/tabulka.png)
 
 A vidime ze P a L sa rovnaju 🙂
 
@@ -71,7 +71,7 @@ A vidime ze P a L sa rovnaju 🙂
 
 Uvazujme nasledujuci priklad:
 
-![pr3-problem.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/pr3-problem.png)
+![pr3-problem.png](assets/pr3-problem.png)
 
 Teraz uz zrychlene ho vyjradrime ako :
 
@@ -79,13 +79,13 @@ $¬(A \iff B) ∧ C = (A ∧¬ (B \iff C)) ∧¬B$
 
 V tabulke:
 
-![pr3-problem2.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/pr3-problem2.png)
+![pr3-problem2.png](assets/pr3-problem2.png)
 
 Jednoduche, strany sa nerovnaju!
 
 Lenze odpovednik si mysli inac:
 
-![input.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/input.png)
+![input.png](assets/input.png)
 
 Ako je to mozne ?
 
@@ -99,7 +99,7 @@ C = True
 
 Pozrime sa na ake mnoziny tieto premene referovali:
 
-![premenne.jpg](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/premenne.jpg)
+![premenne.jpg](assets/premenne.jpg)
 
 Treba sa zamyslet, ci usporiadana trojica (F,T,T) vobec moze nastat → Ak prvok nepatri do zjednotenia vsetkych parnych mnozin, tak urcite nepatri ani do ich symetrickeho rozdielu.
 
@@ -107,17 +107,17 @@ Takychto kontradikcii existuje viacej. Co je treba po kazdom zhotoveni tabulky s
 
 Ak si teda predstavime predoslu tabulku a zbavime sa riadku(ov) s neplatnymi vstupmi dostaneme nasledujuce: 
 
-![pr3-problem2-sol.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/pr3-problem2-sol.png)
+![pr3-problem2-sol.png](assets/pr3-problem2-sol.png)
 
 Teraz si s odpovednikom suhlasime.
 
 Tu su vsetky mozne kontradikcie pri lubovolnom pocte mnozin:
 
-![kontr1.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/kontr1.png)
+![kontr1.png](assets/kontr1.png)
 
 A tu su kontradikcie, ktore nastavaju pri parnom pocte mnozim (to mozme asi ignorovat? 🤷):
 
-![kontr2.png](Sude%20liche%20a%20podobne%20srandy%20c7130d5002b04aad85ec09f8a18480e5/kontr2.png)
+![kontr2.png](assets/kontr2.png)
 
 ### Konec
 
